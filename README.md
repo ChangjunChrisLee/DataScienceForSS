@@ -1,4 +1,4 @@
-# 2020-가을 학기 '데이터베이스의 이해와 응용" 수업 게시판 입니다.
+# 2020-가을 학기 "사회과학도를 위한 데이터 과학 입문" 수업 게시판 입니다.
 이곳은 궁금한 것이 있을 때 강의자와 조교들에게 질문을 하는 곳입니다. 물론 학우들끼리 질문과 답변을 주고 받을수도 있습니다. 가급적 수업에 대한 질문이 좋지만 넓게 데이터 과학 전반에 대한 질문도 괜찮습니다. 개인적인 진로 상담 등등은 카카오 오픈 채팅방의 CJ상담실을 이용해주세요. https://open.kakao.com/o/s90SQocc (비번은 hanyang)
 
  # 질문의 기술	
@@ -21,5 +21,6 @@
 - 학우들끼리 질문을 주고 받는 것은 언제든지 권장됩니다.
 
 질문이 생겼나요? 그럼 질문하러 가봅시다!
-https://github.com/ChangjunChrisLee/DataBaseClass/issues
+https://github.com/ChangjunChrisLee/DataScienceForSS/issues
+
 
